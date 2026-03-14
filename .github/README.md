@@ -1,7 +1,7 @@
 # Baileys-Vinzz - WhatsApp Bot Framework 2026 Spesial Edition
 
 <p align="center">
-  <img src="https://files.catbox.moe/pfttxc.jpg" width="300" alt="Baileys Vinzz" />
+  <img src="https://files.catbox.moe/1z94w7.jpeg" width="300" alt="Baileys Vinzz" />
 </p>
 
 <p align="center">

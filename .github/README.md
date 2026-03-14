@@ -1,4 +1,4 @@
-# Baileys-Vinzz - WhatsApp Bot Framework 2025 Spesial Edition
+# Baileys-Vinzz - WhatsApp Bot Framework 2026 Spesial Edition
 
 <p align="center">
   <img src="https://files.catbox.moe/pfttxc.jpg" width="300" alt="Baileys Vinzz" />

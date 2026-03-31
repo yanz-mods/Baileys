@@ -1,7 +1,7 @@
 {
-    "name": "VinzzOfficial/Baileys",
+    "name": "yanz-mods/Baileys",
     "version": "1.0.1",
-    "description": "WhatsApp API Modification By Vinzz",
+    "description": "WhatsApp API Modification By YanzMods",
     "keywords": [
         "whatsapp",
         "laurine-wabot",
@@ -12,9 +12,9 @@
         "botwa",
         "stvnnvs"
     ],
-    "homepage": "https://github.com/VinzzOfficial/Baileys",
+    "homepage": "https://github.com/yanz-mods/Baileys",
     "repository": {
-        "url": "git@github.com/VinzzOfficial/Baileys.git"
+        "url": "git@github.com/yanz-mods/Baileys.git"
     },
     "license": "MIT",
     "author": "Adhiraj Singh",

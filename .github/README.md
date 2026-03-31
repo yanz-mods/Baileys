@@ -1,7 +1,7 @@
 # Baileys-YanzMods - WhatsApp Bot Framework 2026 Spesial Edition
 
 <p align="center">
-  <img src="https://files.catbox.moe/1z94w7.jpeg" width="300" alt="Baileys yanzmods" />
+  <img src="[https](https://files.catbox.moe/ouxbi3.jpg)" width="300" alt="Baileys yanzmods" />
 </p>
 
 <p align="center">

@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/yanz-mods/Baileys"><img src="https://img.shields.io/github/stars/yanz-mods/Baileys?style=for-the-badge" alt="Stars"></a>
-  <a href="https://www.npmjs.com/package/@yanz-mods/baileys"><img src="https://img.shields.io/npm/v/@yanz-mods/baileys?style=for-the-badge" alt="NPM"></a>
+  <a href="https://www.npmjs.com/package/@vinzzofficial/baileys"><img src="https://img.shields.io/npm/v/@vinzzofficial/baileys?style=for-the-badge" alt="NPM"></a>
 </p>
 
 ---
